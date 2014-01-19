@@ -1,0 +1,9 @@
+{
+  "name": "classy",
+  "version": "1.4.1",
+  "description": "Classes for JavaScript",
+  "homepage": "http://classy.pocoo.org/",
+  "jam": {
+    "main": "classy.js"
+  }
+}
